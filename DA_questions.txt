@@ -1,0 +1,13 @@
+1. Name the car which is having the selling price more than 600000.
+2. Name the car having manual transmission and also find how much km its driven.
+3. Name the list of the car having sold by first owner.
+4. Name the list of car having selling price more than 10lac but manufacturing
+year will be 2010.
+5. Find the most expensive car.
+6. Find the most cheapest car.
+7.Find tthe car which is max driven.
+8. Find the car which is min driven.
+9. What is the fuel type & transmission of "Maruti Car".
+10.What is the selling price of 'Toyota Corolla Altis 1.8 VL CVT' car.
+
+ 
